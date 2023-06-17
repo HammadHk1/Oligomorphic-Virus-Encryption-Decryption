@@ -20,4 +20,10 @@ Here we are using <b>Cryptography.fernet</b> key to generate our 5 keys which is
 - Then we’ll re-encrypt the program using the same commands as above..
 ## Flow Diagram:
 ![image](https://github.com/HammadHk1/Oligomorphic-Virus-Encryption-Decryption/assets/117303560/599d2b26-e429-4cd7-bbfa-85468720ef4a)
+## Commands to run the Program
+Download this Directory open the code in VS code. Run Run.py file to execute the code.
+```
+python Run.py
+
+```
 
